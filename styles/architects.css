@@ -21,7 +21,10 @@
   font-size: 1.25rem;
   font-weight: 600;
 }
-
+main{
+  max-width: 1440px;
+  margin: 0 auto;
+}
 /* darrk-2 */
 .text-gray {
   color: #424242;
@@ -79,6 +82,10 @@
 .banner-image{
   width: 100%;
 }
+
+/* team and feature realated styles */
+
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
   .navbar, .nav-links{
